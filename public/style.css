@@ -107,11 +107,7 @@ img {
     text-align: center;
     width: 20%;
 }
-.bookInfo {
-    display: flex;
-    border-bottom: 5px solid blue;
-}
-.filmInfo {
+.info {
     display: flex;
     border-bottom: 5px solid blue;
 }
